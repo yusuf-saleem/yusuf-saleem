@@ -57,8 +57,8 @@ https://tensai.netlify.app/
 
 # Technical Skills
 
-**Languages**: Python, Java, JavaScript/TypeScript, C/C++
-**Cloud Technologies**: AWS, Google Cloud, OpenAI API, Netlify, Supabase
-**Development Tools & Frameworks**: React, Node.js, SQL / NoSQL
-**DevOps Infastructure**: Kubernetes, Docker, Jenkins, GitHub Actions
-**Collaboration**: Confluence, Jira, GitLab, Gerrit
+ - **Languages**: Python, Java, JavaScript/TypeScript, C/C++
+ - **Cloud Technologies**: AWS, Google Cloud, OpenAI API, Netlify, Supabase
+ - **Development Tools & Frameworks**: React, Node.js, SQL / NoSQL
+ - **DevOps Infastructure**: Kubernetes, Docker, Jenkins, GitHub Actions
+ - **Collaboration**: Confluence, Jira, GitLab, Gerrit
