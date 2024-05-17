@@ -30,7 +30,7 @@ I believe that learning  never stops. I continually seek ways to push my technic
  - Contributed to 5G modem’s React-based configuration pages by writing automatic UI tests in Python Selenium
  - Engaged in GitLab code reviews and Scrum planning sessions, contributing to improved code quality and team alignment
 
-**Software Verification Engineer - Fortinet** 
+**Software Verification Engineer - Tantalus Systems** 
 *Apr 2019 - Dec 2019*
 
  - Developed Python-based monitoring software to gather and parse data reported by hundreds of electric meter modules, ensuring efficient and accurate analysis
