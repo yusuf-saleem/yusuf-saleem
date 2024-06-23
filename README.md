@@ -13,10 +13,10 @@ I believe that learning  never stops. I continually seek ways to push my technic
 **Software Developer - Fortinet** 
 *Oct 2022 - Present*
 
- - Developed React web apps to replace cumbersome CLI tools utilized by fellow developers
- - Created Python tools for rigorous testing of FortiGuard Antivirus features
- - Reduced regression report delivery time through automation
- - Maintained Kubernetes cluster used in stress testing, contributing to enhanced product scalability and reliability
+ - Engineered React & Flask based fullstack applications for infrastructure management and configuration, replacing many manual workloads
+ - Maintained Kubernetes cluster hosting FortiGuard antivirus micro-services tackling problems of scalability and reliability
+ - Expanded upon broad Python codebase developing APIs and interfaces for FortiGuard OS functions
+ - Developed Python-based automated infrastructure monitoring software catching and reporting outages before any human
 
 **Embedded Software Engineer - Sierra Wireless** 
 *Jan 2022 - Aug 2022*
