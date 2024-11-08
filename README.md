@@ -10,8 +10,11 @@ I believe that learning  never stops. I continually seek ways to push my technic
 
 # Experience
 
+**Software Engineer - Dialpad** 
+*Nov 2024 - Present*
+
 **Software Developer - Fortinet** 
-*Oct 2022 - Present*
+*Oct 2022 - Nov 2024*
 
  - Engineered React & Flask based fullstack applications for infrastructure management and configuration, replacing many manual workloads
  - Maintained Kubernetes cluster hosting FortiGuard antivirus micro-services tackling problems of scalability and reliability
